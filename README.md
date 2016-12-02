@@ -3,7 +3,8 @@
 ##How to run code locally:##
 
 ###Clone Repository###
-* Open up terminal, go to a folder where you want to put this project and run `https://github.com/lpspring/cs1300-development.git`
+* Open up terminal, go to a folder where you want to put this project and run
+`https://github.com/lpspring/cs1300-development.git`
 * `cd` to `cs1300-development`
 * Run `python -m SimpleHTTPServer`
 * On your browser, go to `localhost:8000`
